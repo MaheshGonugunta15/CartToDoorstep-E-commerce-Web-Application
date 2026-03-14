@@ -34,7 +34,7 @@ Control product approvals and categories
 
 Technologies Used
 
-Frontend: React, HTML, CSS, JavaScript
+Frontend: React, HTML, Boostrap, JavaScript
 
 Backend: Express.js
 
