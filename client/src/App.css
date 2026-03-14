@@ -1,0 +1,33 @@
+.pic{
+    background-image: url("https://t3.ftcdn.net/jpg/03/48/55/20/360_F_348552050_uSbrANL65DNj21FbaCeswpM33mat1Wll.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pic2{
+    background-image: url("https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/04/online-1617947180.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.product-img{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-shopping-mall-supermarket-selection-merchandise-poster-background-material-image_133225.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.customer_home-img{
+    background-image: url("https://img.freepik.com/free-photo/laptop-shopping-bags-online-shopping-concept_1423-189.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.customer_reg-img{
+    background-image: url("https://shopping-hoian.com/wp-content/uploads/2023/01/Online-Shoppingf.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
